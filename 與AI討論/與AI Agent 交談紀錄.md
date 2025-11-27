@@ -136,3 +136,39 @@ LaTeX到HTML的轉換可能引入樣式問題（如CSS不一致），尤其對�
 ### 實施步驟3 (部署到 GitHub Pages)
 
 Q: 這需要列個做法給我嗎？因為應該需要我到GitHub 作業吧？難道您可以直接在這個repository 做到嗎？
+
+### 實施步驟3 (部署到 GitHub Pages) 詳細做法
+
+由於我無法直接訪問或操作您的GitHub帳戶或倉庫（基於安全與工具限制），以下是完整的部署步驟指南。您需要在GitHub網站上手動執行相關操作。假設您已有GitHub帳戶，並且這個本地倉庫已初始化為Git倉庫（如果沒有，請先運行 `git init`）。
+
+#### 步驟3.1: 準備本地倉庫
+1. 確保所有檔案已提交到Git：
+   - 運行 `git add .` 添加所有檔案（包括build/目錄中的HTML）。
+   - 運行 `git commit -m "Add static website files"` 提交變更。
+   - 如果倉庫尚未推送到GitHub，請先創建一個新的GitHub倉庫（在GitHub網站上點擊“New repository”，命名如“superconductorlike-society”），然後運行 `git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git` 和 `git push -u origin main`（或master，視分支而定）。
+
+#### 步驟3.2: 啟用GitHub Pages
+1. 前往您的GitHub倉庫頁面（https://github.com/YOUR_USERNAME/YOUR_REPO_NAME）。
+2. 點擊“Settings”標籤（在倉庫頂部）。
+3. 在左側選單中，滾動到“Pages”部分。
+4. 在“Source”下拉選單中，選擇“Deploy from a branch”。
+5. 在“Branch”下拉選單中，選擇“main”（或您的預設分支），並將資料夾設為“/build”（因為HTML檔案在build/目錄中）。
+6. 點擊“Save”。
+
+#### 步驟3.3: 等待部署完成
+1. GitHub會自動開始部署過程，通常需要幾分鐘到幾小時。
+2. 部署完成後，您會在Pages設定頁面看到一個綠色勾選標記，並顯示公開URL（如 https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/）。
+3. 訪問該URL檢查頁面：確保index.html（中文版）載入正常，語言切換連結指向index-en.html。
+
+#### 步驟3.4: 設定自訂域名（可選）
+1. 如果您有自訂域名（如 superconductorlike-society.com），在Pages設定中輸入域名。
+2. 在您的域名提供商處，添加CNAME記錄指向 YOUR_USERNAME.github.io。
+3. 等待DNS生效（可能需24小時）。
+
+#### 注意事項
+- 如果倉庫是私有的，Pages將無法公開訪問；請確保設為公開。
+- 若部署失敗，檢查GitHub的Actions標籤以查看錯誤日誌。
+- 更新內容時，重複步驟3.1（提交並推送），GitHub會自動重新部署。
+- 檔案大小限制：GitHub Pages支援小檔案，您的靜態HTML應無問題。
+
+完成後，請確認頁面正常運作。若有問題，我可以協助調整本地檔案。
