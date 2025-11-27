@@ -1,0 +1,68 @@
+{
+  "latex-workshop.docker.enabled": true,
+  "latex-workshop.docker.image.latex": "texlive/texlive",
+  "latex-workshop.docker.path": "docker",
+
+  "latex-workshop.latex.tools": [
+    {
+      "name": "latexmk-docker-pdflatex",
+      "command": "powershell",
+      "args": [
+        "-ExecutionPolicy", "Bypass",
+        "-Command", 
+        "docker run --rm -v \"${pwd}:/data\" -w /data texlive/texlive latexmk -pdf -outdir=build -interaction=nonstopmode -file-line-error %DOC%"
+      ]
+    },
+    {
+      "name": "latexmk-docker-xelatex",
+      "command": "powershell",
+      "args": [
+        "-ExecutionPolicy", "Bypass",
+        "-Command", 
+        "docker run --rm -v \"${pwd}:/data\" -w /data texlive/texlive latexmk -xelatex -outdir=build -interaction=nonstopmode -file-line-error %DOC%"
+      ]
+    },
+    {
+      "name": "make4ht-docker",
+      "command": "powershell",
+      "args": [
+        "-ExecutionPolicy", "Bypass",
+        "-Command", 
+        "docker run --rm -v \"${pwd}:/data\" -w /data texlive/texlive bash -c 'xelatex %DOCFILE% && biber %DOCFILE_EXT% && xelatex %DOCFILE% && make4ht -x -d build %DOCFILE% \"mathml,charset=utf-8\" \" -cunihtf -utf8\"'"
+      ]
+    },
+    {
+      "name": "htlatex-docker",
+      "command": "powershell",
+      "args": [
+        "-ExecutionPolicy", "Bypass",
+        "-Command", 
+        "docker run --rm -v \"${pwd}:/data\" -w /data texlive/texlive htlatex %DOCFILE% \"xhtml,mathml\" \"\" \"-dbuild/\""
+      ]
+    }
+  ],
+
+  "latex-workshop.latex.recipes": [
+    {
+      "name": "latexmk (XeLaTeX Docker)",
+      "tools": ["latexmk-docker-xelatex"]
+    },
+    {
+      "name": "latexmk (PDFLaTeX Docker)",
+      "tools": ["latexmk-docker-pdflatex"]
+    },
+    {
+      "name": "latexmk x2 (XeLaTeX Docker)",
+      "tools": ["latexmk-docker-xelatex", "latexmk-docker-xelatex"]
+    },
+    {
+      "name": "make4ht (HTML Docker)",
+      "tools": ["make4ht-docker"]
+    },
+    {
+      "name": "htlatex (HTML Docker)",
+      "tools": ["htlatex-docker"]
+    }
+  ],
+  "latex-workshop.latex.autoBuild.run": "onSave"
+}
