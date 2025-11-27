@@ -1,3 +1,7 @@
+# [2025-11-27] 加入 en & zh-TW 語言宣告到網頁裡面
+
+可以跑 [build.ps1](build.ps1)來自動產生網頁
+
 # [2025-11-27] 因為GitHub 網頁放在 docs 目錄裡，只好修改
 
 # [2025-11-27] AI 寫出步驟3 部署到 GitHub 的細節
@@ -10,8 +14,8 @@
 2. 透過以下命令生成中英文網頁
 
 ``` ps
-pandoc index.md -o docs/index.html --css=css/style.css
-pandoc index-en.md -o docs/index-en.html --css=css/style.css
+pandoc index.md -o docs/index.html --css=css/style.css -s
+pandoc index-en.md -o docs/index-en.html --css=css/style.css -s
 ```
 
 # [2025-11-27] 與 AI 討論後，擬定計劃書

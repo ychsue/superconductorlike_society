@@ -1,6 +1,6 @@
 # 提問  
 
-## [2025-11-27 15:20] 準備問
+## [2025-11-27 15:20] 完成
 
 ### 規劃1  
 
@@ -172,3 +172,29 @@ Q: 這需要列個做法給我嗎？因為應該需要我到GitHub 作業吧？�
 - 檔案大小限制：GitHub Pages支援小檔案，您的靜態HTML應無問題。
 
 完成後，請確認頁面正常運作。若有問題，我可以協助調整本地檔案。
+
+## [2025-11-27 20:42] 第二問(優化)
+
+Q:對了，問您一個問題，markdown 裏頭，我可以宣告輸出的 html 的 lang 是 en 或 zh-TW 嗎？這樣，viewer的 browser 就可能可以自動翻譯了。
+請將做法寫在 #file:與AI Agent 交談紀錄.md 的最後面，若能自動化就更好了，還是，寫一個 python 或 ps1 自動化整個生成 html 們就更好了。謝謝。
+
+### 做法與自動化
+
+#### 設定HTML lang屬性
+是的，可以在Markdown的YAML front matter中宣告`lang`變數，Pandoc會自動將其轉換為HTML的`<html lang="...">`屬性。這有助於瀏覽器識別語言，可能觸發自動翻譯功能。
+
+- **中文版**：在`index.md`的front matter添加`lang: zh-TW`。
+- **英文版**：在`index-en.md`的front matter添加`lang: en`。
+
+已更新Markdown檔案並重新編譯HTML。
+
+#### 自動化腳本
+為了簡化生成過程，已創建一個PowerShell腳本`build.ps1`，用於自動編譯所有HTML。運行方式：
+
+``` ps
+.\build.ps1
+```
+
+腳本會檢查並創建`docs`目錄，然後執行Pandoc命令生成`index.html`和`index-en.html`。
+
+如果需要Python腳本，請提供進一步指示。

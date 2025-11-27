@@ -1,5 +1,6 @@
 ---
 title: Superconductor-like Society
+lang: zh-TW
 header-includes:
 - <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
 ---
