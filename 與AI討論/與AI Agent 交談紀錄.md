@@ -152,7 +152,7 @@ Q: 這需要列個做法給我嗎？因為應該需要我到GitHub 作業吧？�
 2. 點擊“Settings”標籤（在倉庫頂部）。
 3. 在左側選單中，滾動到“Pages”部分。
 4. 在“Source”下拉選單中，選擇“Deploy from a branch”。
-5. 在“Branch”下拉選單中，選擇“main”（或您的預設分支），並將資料夾設為“/build”（因為HTML檔案在build/目錄中）。
+5. 在“Branch”下拉選單中，選擇“main”（或您的預設分支），並將資料夾設為“/docs”（因為HTML檔案在docs/目錄中）。
 6. 點擊“Save”。
 
 #### 步驟3.3: 等待部署完成

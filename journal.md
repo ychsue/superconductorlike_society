@@ -1,3 +1,5 @@
+# [2025-11-27] 因為GitHub 網頁放在 docs 目錄裡，只好修改
+
 # [2025-11-27] AI 寫出步驟3 部署到 GitHub 的細節
 
 在 [步驟3施行細節](./與AI討論/與AI%20Agent%20交談紀錄.md###實施步驟3) 詳列施行細節，要先Commit 才行
@@ -8,8 +10,8 @@
 2. 透過以下命令生成中英文網頁
 
 ``` ps
-pandoc index.md -o build/index.html --css=css/style.css
-pandoc index-en.md -o build/index-en.html --css=css/style.css
+pandoc index.md -o docs/index.html --css=css/style.css
+pandoc index-en.md -o docs/index-en.html --css=css/style.css
 ```
 
 # [2025-11-27] 與 AI 討論後，擬定計劃書
