@@ -42,3 +42,12 @@ May everyone find good solutions together. May everyone live in the reality of t
 ## Podcast
 
 - [Superconductor-like Society (Chinese)](https://podcasts.apple.com/us/podcast/超導般的社會/id1839209035)
+
+## Implementation Projects
+
+To realize the blueprint of a Superconductor-like Society, the following implementation projects have been initiated:
+
+- **[NonBlockingLife](https://github.com/ychsue/NonBlockingLife)**
+  - A personal life scheduling system (currently focused on tasks).
+- **[ActionManifold](https://github.com/ychsue/ActionManifold)**
+  - A system for managing activity manifolds. Designed to make activities extensible, allow dynamic process changes, support replay & resume, and facilitate easy process management development.

@@ -42,3 +42,16 @@
 ## Podcast
 
 - [超導般的社會(中文)](https://podcasts.apple.com/us/podcast/超導般的社會/id1839209035)
+
+## 實驗中
+
+以下兩個是目前程式的部分，尚未含AI，但是，要 embed 應該不難才對
+
+## 實作專案 (Implementations)
+
+為了實踐超導般的生活藍圖，目前已啟動以下實作專案：
+
+- **[NonBlockingLife](https://github.com/ychsue/NonBlockingLife)**
+  - 個人生活調度系統（目前專注於任務調度）。
+- **[ActionManifold](https://github.com/ychsue/ActionManifold)**
+  - 活動流形管理系統。旨在讓活動易於擴充、能動態改變進程、支援重播（Replay）與恢復（Resume），並簡化進程管理的開發。
