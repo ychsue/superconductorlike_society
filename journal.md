@@ -1,5 +1,7 @@
 # Journal
 
+## [2026-02-21] 開始設法promote，先寫到網站上看看
+
 ## [2026-01-25] 加上兩個擴充專案 NonBlockingLife 與 ActionManifold
 
 ## [2026-01-16] 試著使用 Zensical 來管理
