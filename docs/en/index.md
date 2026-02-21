@@ -51,3 +51,7 @@ To realize the blueprint of a Superconductor-like Society, the following impleme
   - A personal life scheduling system (currently focused on tasks).
 - **[ActionManifold](https://github.com/ychsue/ActionManifold)**
   - A system for managing activity manifolds. Designed to make activities extensible, allow dynamic process changes, support replay & resume, and facilitate easy process management development.
+
+## Promote
+
+- [Faithfulness and Love 01](./promote/faithfulness_and_love_01.md)

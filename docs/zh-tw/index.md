@@ -55,3 +55,7 @@
   - 個人生活調度系統（目前專注於任務調度）。
 - **[ActionManifold](https://github.com/ychsue/ActionManifold)**
   - 活動流形管理系統。旨在讓活動易於擴充、能動態改變進程、支援重播（Replay）與恢復（Resume），並簡化進程管理的開發。
+
+## Promote
+
+- [關於信實與愛 01](./promote/faithfulness_and_love_01.md)
