@@ -1,5 +1,10 @@
 # Journal
 
+## [2026-04-24] 準備開始與Gemini 3.1 Pro (Low) 合作寫出 IG_02 的SS成員一日想像
+
+## [2026-03-06] 建立第一篇 IG 貼文
+與 Gemini 3.1 Pro(Low) 討論後，定稿。
+
 ## [2026-02-21] 開始設法promote，先寫到網站上看看
 
 ## [2026-01-25] 加上兩個擴充專案 NonBlockingLife 與 ActionManifold
