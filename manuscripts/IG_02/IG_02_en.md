@@ -1,6 +1,6 @@
 # The Modern Republic: A Superconductor-like Society
 [Updated: 2026-04-27]
-*(This is a possible daily chronicle of life in the second phase of a "Superconductor-like Society" (SS). Here, resource allocation no longer relies on money and class, but is built upon the underlying logic of "faithfulness and love," operated with the assistance of powerful AI and advanced technology.)*
+*(This is a possible daily chronicle of life in the second phase of a "Superconductor-like Society" (SS). Here, resource allocation no longer relies on money and class, but is built upon the underlying logic of "faithfulness and love," operated with the assistance of powerful AI and advanced technology. By the way, this is a collaborative work with Gemini.)*
 
 ---
 
