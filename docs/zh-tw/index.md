@@ -18,6 +18,10 @@
 
 願大家能一起找出好辦法來。願大家皆能活在禧年的實際裡，得著真喜樂與真自由。
 
+## 新文章
+
+- [超導般的社會成員（一日日常小說）](https://github.com/ychsue/superconductorlike_society/blob/main/manuscripts/IG_02/IG_02_%E5%B0%8F%E8%AA%AA%E6%BD%A4%E9%A3%BE%E7%89%88.md)
+
 ## 文件
 
 - [多年前原始想法，已經有變更，請以新的為主(英文)](http://memorizeyc.azurewebsites.net/static/for_prime_minister_final.pdf)

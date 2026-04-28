@@ -18,6 +18,10 @@ Furthermore, the rapid development of AI, like a catalyst in an autocatalytic re
 
 May everyone find good solutions together. May everyone live in the reality of the Jubilee, obtaining true joy and true freedom.
 
+## New Article
+
+- [A Day in the Life of a Superconductor-like Society Member (Short Story)](https://github.com/ychsue/superconductorlike_society/blob/main/manuscripts/IG_02/IG_02_en.md)
+
 ## Documents
 
 - [Original ideas from years ago (English)](http://memorizeyc.azurewebsites.net/static/for_prime_minister_final.pdf)
