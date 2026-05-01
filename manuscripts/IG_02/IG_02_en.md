@@ -10,7 +10,7 @@
 
 The morning sun filtered through the smart glass, waking me at the gentlest angle. I was in a temporary accommodation cabin in Zhudong, Hsinchu.
 
-I opened the `NonBlockingLife` interface on my portable device to check today's activities. In the Superconductor Society, we don't have rigid "calendars." Instead, we have "dynamic activities" matched by our personal AI. My personal AI plays three roles: a preventive medicine physician who nips illnesses in the bud (like the legendary elder brother of Bian Que), a learning coach who knows my potential, and an itinerary secretary who orchestrates my plans.
+I opened the `NonBlockingLife` interface on my portable device to check today's activities. In the Superconductor-like Society, we don't have rigid "calendars." Instead, we have "dynamic activities" matched by our personal AI. My personal AI plays three roles: a preventive medicine physician who nips illnesses in the bud (like the legendary elder brother of Bian Que), a learning coach who knows my potential, and an itinerary secretary who orchestrates my plans.
 
 "Good morning," I murmured in my mind, but my body responded with a heavy protest.
 
@@ -198,7 +198,7 @@ When the time was up, I saved my work with satisfaction and mounted my bike agai
 
 ## The Collision of Values at the Symposium
 
-*(This was an exchange symposium about parenting and family, but essentially, it was a microcosm of several different life trajectories converging in the superconductor society. To delicately present these collisions, we will listen to the stories of these three couples in three chapters.)*
+*(This was an exchange symposium about parenting and family, but essentially, it was a microcosm of several different life trajectories converging in the superconductor-like society. To delicately present these collisions, we will listen to the stories of these three couples in three chapters.)*
 
 ### 4-1: From Possession to Fulfillment—The Transformation of a Terrifying Lover
 
@@ -288,7 +288,7 @@ She looked at the CEO who had once dominated the business world, yet now felt im
 
 "That night, the two of us cried for a long time under the starry sky," the wife's eyes welled up with tears. "We decided to formally join SS. We gave up our luxurious mansion and moved into a regular cabin. I started learning to cook for others with my own hands, and my husband finally dropped his disguise and joined the community woodworking shop."
 
-They finished sharing and smiled at each other, a smile of true freedom. In the world of money, people climb desperately upwards, terrified that falling means losing their dignity; but in the network of the superconductor society, when love becomes the only currency, the highest honor is actually the willingness to bend down and wash each other's feet.
+They finished sharing and smiled at each other, a smile of true freedom. In the world of money, people climb desperately upwards, terrified that falling means losing their dignity; but in the network of the superconductor-like society, when love becomes the only currency, the highest honor is actually the willingness to bend down and wash each other's feet.
 
 ---
 
@@ -302,7 +302,7 @@ The last to share was a young couple whose expressions looked slightly haggard, 
 
 "At first, we thought that joining SS would let us 'escape' these debts," the young wife admitted with a bitter smile. "We thought this was a utopia where we could wipe the slate clean with the outside world once we got in."
 
-But the AI counselor of the SS system shattered their illusion. The superconductor society is built on the foundation of "faithfulness." Evading legitimate debts does not align with the principle of faithfulness. SS is not a sterile room isolated from reality, but a "semi-permeable membrane."
+But the AI counselor of the SS system shattered their illusion. The superconductor-like society is built on the foundation of "faithfulness." Evading legitimate debts does not align with the principle of faithfulness. SS is not a sterile room isolated from reality, but a "semi-permeable membrane."
 
 "The AI told us we had to take responsibility for our past choices and pay off the debts. Also, SS members try to base every step of their daily lives on faithfulness and love, and paying off debt inherently involves transactions. Therefore, we aren't considered full SS members yet." The husband took a deep breath, his tone firm. "But the difference is, the system gave us the greatest 'backbone.'"
 
@@ -316,7 +316,7 @@ Because they no longer had to spend a single cent on "survival," this couple cou
 
 Listening to their sharing, the word "photocatalyst" popped into my mind.
 
-The current monetary society is like an overheated greenhouse where high pressure and anxiety constantly accumulate. And the Superconductor Society (SS) is like a photocatalyst smeared on the margins of society. It doesn't directly confront the monetary system outside, but when those burned by the high heat and driven to desperation (like this indebted couple) arrive here, SS absorbs their anxiety and cools them down. It gives people breathing room so they can address outside problems in a healthy state, ultimately transforming thermal energy into coolness.
+The current monetary society is like an overheated greenhouse where high pressure and anxiety constantly accumulate. And the Superconductor-like Society (SS) is like a photocatalyst smeared on the margins of society. It doesn't directly confront the monetary system outside, but when those burned by the high heat and driven to desperation (like this indebted couple) arrive here, SS absorbs their anxiety and cools them down. It gives people breathing room so they can address outside problems in a healthy state, ultimately transforming thermal energy into coolness.
 
 This isn't just saving this couple; this is saving the entire human society that is on the verge of collapse.
 
